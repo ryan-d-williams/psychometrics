@@ -8,7 +8,9 @@ This project is built on SvelteKit which is a framework built on top of NodeJS. 
 
 1. Install NodeJS on your computer (latest version recommended, any will do). [Download Link](https://nodejs.org/en/download).
 2. Open a terminal in the main "psychometrics" folder. This can be done by unzipping the zip file provided on Canvas or cloning the repository from [this link](https://github.com/ryan-d-williams/psychometrics).
-3. While inside the main folder, run the following command: `npm run dev`
+3. While inside the main folder, run the following commands: 
+    1. `npm install`
+    2. (once the above is complete) `npm run dev`
 
 This will start a development server. Your terminal will tell you the link the application is available on. Copy that link to your browser to see the application.
 
